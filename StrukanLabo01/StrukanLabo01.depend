@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503011499 source:d:\strukan\strukanlabo01\main.c
+	<stdio.h>
+	<stdlib.h>
+
